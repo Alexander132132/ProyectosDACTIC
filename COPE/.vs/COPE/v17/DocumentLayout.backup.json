@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexa\\source\\repos\\COPE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C7118C2-018E-49FD-97ED-CFBE51BDCCDB}|COPE\\COPE.csproj|c:\\users\\alexa\\source\\repos\\cope\\cope\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C7118C2-018E-49FD-97ED-CFBE51BDCCDB}|COPE\\COPE.csproj|solutionrelative:cope\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\COPE\\COPE\\Program.cs",
+              "RelativeDocumentMoniker": "COPE\\Program.cs",
+              "ToolTip": "C:\\Users\\alexa\\source\\repos\\COPE\\COPE\\Program.cs",
+              "RelativeToolTip": "COPE\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAowDUAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T00:46:27.694Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

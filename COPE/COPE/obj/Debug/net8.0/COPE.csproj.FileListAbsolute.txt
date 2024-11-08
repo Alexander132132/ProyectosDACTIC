@@ -1,0 +1,14 @@
+C:\Users\alexa\source\repos\COPE\COPE\bin\Debug\net8.0\COPE.exe
+C:\Users\alexa\source\repos\COPE\COPE\bin\Debug\net8.0\COPE.deps.json
+C:\Users\alexa\source\repos\COPE\COPE\bin\Debug\net8.0\COPE.runtimeconfig.json
+C:\Users\alexa\source\repos\COPE\COPE\bin\Debug\net8.0\COPE.dll
+C:\Users\alexa\source\repos\COPE\COPE\bin\Debug\net8.0\COPE.pdb
+C:\Users\alexa\source\repos\COPE\COPE\obj\Debug\net8.0\COPE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\source\repos\COPE\COPE\obj\Debug\net8.0\COPE.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\COPE\COPE\obj\Debug\net8.0\COPE.AssemblyInfo.cs
+C:\Users\alexa\source\repos\COPE\COPE\obj\Debug\net8.0\COPE.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\COPE\COPE\obj\Debug\net8.0\COPE.dll
+C:\Users\alexa\source\repos\COPE\COPE\obj\Debug\net8.0\refint\COPE.dll
+C:\Users\alexa\source\repos\COPE\COPE\obj\Debug\net8.0\COPE.pdb
+C:\Users\alexa\source\repos\COPE\COPE\obj\Debug\net8.0\COPE.genruntimeconfig.cache
+C:\Users\alexa\source\repos\COPE\COPE\obj\Debug\net8.0\ref\COPE.dll
